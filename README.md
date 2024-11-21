@@ -36,7 +36,7 @@ In another terminal, use the following command to run the node:
 
 To rewatch the record, unzip the ROSBAG_PUNTO_3 and ROSBAG_PUNTO_4 folders and write on a terminal this command:
 
-    $ros2 launch iiwa_bringup iiwa.launch.py
+    $ros2 launch iiwa_bringup iiwa.launch.py command_interface:="effort" robot_controller:="effort_controller"
 
 and on another terminal, write:
 
