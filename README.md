@@ -44,6 +44,7 @@ and on another terminal, write:
 
     $ros2 bag play <bag_file_name>
 
+To rewatch record in ROSBAG_PUNTO_4 subsitute ROSBAG_PUNTO_3 with ROSBAG_PUNTO_4
 
 ##Pay attention
 
